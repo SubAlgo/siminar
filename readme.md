@@ -43,7 +43,7 @@ is_accept | boolean | not null | false
     postgres:12.1
 `
 ## Create and init data to DB
-ดูที่ table.sql
+ดูที่ table.sql [https://github.com/SubAlgo/siminar/blob/master/table.sql]
 
 
 ## Run app
